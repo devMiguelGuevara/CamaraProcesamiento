@@ -1,0 +1,5 @@
+# Versiones probadas en venv310 (Python 3.10.11)
+# mediapipe instala opencv-contrib-python por su cuenta; no hace falta opencv-python aparte.
+mediapipe==0.10.9
+opencv-contrib-python==4.13.0.92
+numpy==2.2.6
